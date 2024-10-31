@@ -15,6 +15,7 @@ This repository provides a basic example of integrating the eSewa Payment Gatewa
 
 - An **eSewa merchant account** (or sandbox account for testing)
 - Basic knowledge of **HTTP requests** and **callback URLs**
+- This is just to learn the test
 
 ![eSewa Payment Flow](1.png)
 ![eSewa Payment Flow](2.png)
